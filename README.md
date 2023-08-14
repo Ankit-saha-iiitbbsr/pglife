@@ -1,4 +1,4 @@
 # pglife
-## Student Accomodation Website
-Fully functional and working with frontend and backend 
-Fully responsive for all devices
+## Student Accommodation Website
+# Fully functional and working with frontend and backend 
+# Fully responsive for all devices
