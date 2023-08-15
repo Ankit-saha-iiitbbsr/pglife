@@ -7,4 +7,4 @@
 - This web app is hosted online at: https://pglife-website.000webhostapp.com/
 - https://ankit-saha-iiitbbsr.github.io/pglife/
 - Live hosting link may show warning- 'Deceptive Website' continue by clicking on 'Details'
-- and 'visit this unsafe site'.
+and 'visit this unsafe site'.
